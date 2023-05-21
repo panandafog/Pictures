@@ -1,0 +1,22 @@
+/* 
+  Localizable.strings
+  Pictures
+
+  Created by Andrey on 21.05.2023.
+  
+*/
+
+"Tab.GeneratePicture" = "Generate picture";
+"Tab.FavouritePictures" = "Favourites";
+
+"GeneratePicture.TextField.Placeholder" = "Enter picture text here";
+"GeneratePicture.Button.AddToFavourites" = "Add to favourites";
+"GeneratePicture.Button.Submit" = "Generate";
+"GeneratePicture.Button.Loading" = "Loading...";
+"GeneratePicture.Title" = "Generate picture";
+
+"Favourites.Title" = "Favourite pictures";
+
+"Error.ParsingResponse.Text" = "Invalid server response.";
+"Error.ParsingResponse.Comment" = "Could not parse server response.";
+"Error.GeneratingPicture.Title" = "Error during generating picture";
